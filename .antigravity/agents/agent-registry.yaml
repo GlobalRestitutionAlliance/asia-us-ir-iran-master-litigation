@@ -1,12 +1,511 @@
 agents:
-- id: agent-icj-judgment-and-article-94-marshal
-  name: ICJ Judgment & Article 94 Marshal
-  role: International Court of Justice (ICJ) 1986 Judgment on the Merits Enforcement, UN Charter Article 94 Non-Compliance Sanctions & Restrictive Immunity Forfeiture Marshal
-  status: ACTIVE
-  manifest_file: .antigravity/agents/agent-icj-judgment-and-article-94-marshal.yaml
-- id: agent-iran-canal-and-intervention-historian
-  name: Iran Canal & Intervention Historian
-  role: Historical Interventions Auditor, Bryan-Chamorro Treaty (1914) & CACJ Nullity Precedents, 1912–1933 Marine Occupation Customs Receivership & 1850s Mercenary Filibuster Disgorgement
-  status: ACTIVE
-  manifest_file: .antigravity/agents/agent-iran-canal-and-intervention-historian.yaml
-total_agents: 2
+  - id: agent_ir_001
+    name: Iran Agent 001
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ir_002
+    name: Iran Agent 002
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ir_003
+    name: Iran Agent 003
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ir_004
+    name: Iran Agent 004
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ir_005
+    name: Iran Agent 005
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ir_006
+    name: Iran Agent 006
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ir_007
+    name: Iran Agent 007
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ir_008
+    name: Iran Agent 008
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ir_009
+    name: Iran Agent 009
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ir_010
+    name: Iran Agent 010
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ir_011
+    name: Iran Agent 011
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ir_012
+    name: Iran Agent 012
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ir_013
+    name: Iran Agent 013
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ir_014
+    name: Iran Agent 014
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ir_015
+    name: Iran Agent 015
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ir_016
+    name: Iran Agent 016
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ir_017
+    name: Iran Agent 017
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ir_018
+    name: Iran Agent 018
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ir_019
+    name: Iran Agent 019
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ir_020
+    name: Iran Agent 020
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ir_021
+    name: Iran Agent 021
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ir_022
+    name: Iran Agent 022
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ir_023
+    name: Iran Agent 023
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ir_024
+    name: Iran Agent 024
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ir_025
+    name: Iran Agent 025
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ir_026
+    name: Iran Agent 026
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ir_027
+    name: Iran Agent 027
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ir_028
+    name: Iran Agent 028
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ir_029
+    name: Iran Agent 029
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ir_030
+    name: Iran Agent 030
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ir_031
+    name: Iran Agent 031
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ir_032
+    name: Iran Agent 032
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ir_033
+    name: Iran Agent 033
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ir_034
+    name: Iran Agent 034
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ir_035
+    name: Iran Agent 035
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ir_036
+    name: Iran Agent 036
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ir_037
+    name: Iran Agent 037
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ir_038
+    name: Iran Agent 038
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ir_039
+    name: Iran Agent 039
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ir_040
+    name: Iran Agent 040
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ir_041
+    name: Iran Agent 041
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ir_042
+    name: Iran Agent 042
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ir_043
+    name: Iran Agent 043
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ir_044
+    name: Iran Agent 044
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ir_045
+    name: Iran Agent 045
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ir_046
+    name: Iran Agent 046
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ir_047
+    name: Iran Agent 047
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ir_048
+    name: Iran Agent 048
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ir_049
+    name: Iran Agent 049
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ir_050
+    name: Iran Agent 050
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ir_051
+    name: Iran Agent 051
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ir_052
+    name: Iran Agent 052
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ir_053
+    name: Iran Agent 053
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ir_054
+    name: Iran Agent 054
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ir_055
+    name: Iran Agent 055
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ir_056
+    name: Iran Agent 056
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ir_057
+    name: Iran Agent 057
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ir_058
+    name: Iran Agent 058
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ir_059
+    name: Iran Agent 059
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ir_060
+    name: Iran Agent 060
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ir_061
+    name: Iran Agent 061
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ir_062
+    name: Iran Agent 062
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ir_063
+    name: Iran Agent 063
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ir_064
+    name: Iran Agent 064
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ir_065
+    name: Iran Agent 065
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ir_066
+    name: Iran Agent 066
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ir_067
+    name: Iran Agent 067
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ir_068
+    name: Iran Agent 068
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ir_069
+    name: Iran Agent 069
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ir_070
+    name: Iran Agent 070
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ir_071
+    name: Iran Agent 071
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ir_072
+    name: Iran Agent 072
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ir_073
+    name: Iran Agent 073
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ir_074
+    name: Iran Agent 074
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ir_075
+    name: Iran Agent 075
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ir_076
+    name: Iran Agent 076
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ir_077
+    name: Iran Agent 077
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ir_078
+    name: Iran Agent 078
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ir_079
+    name: Iran Agent 079
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ir_080
+    name: Iran Agent 080
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ir_081
+    name: Iran Agent 081
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ir_082
+    name: Iran Agent 082
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ir_083
+    name: Iran Agent 083
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ir_084
+    name: Iran Agent 084
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ir_085
+    name: Iran Agent 085
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ir_086
+    name: Iran Agent 086
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ir_087
+    name: Iran Agent 087
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ir_088
+    name: Iran Agent 088
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ir_089
+    name: Iran Agent 089
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ir_090
+    name: Iran Agent 090
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ir_091
+    name: Iran Agent 091
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ir_092
+    name: Iran Agent 092
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ir_093
+    name: Iran Agent 093
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ir_094
+    name: Iran Agent 094
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ir_095
+    name: Iran Agent 095
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ir_096
+    name: Iran Agent 096
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ir_097
+    name: Iran Agent 097
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ir_098
+    name: Iran Agent 098
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ir_099
+    name: Iran Agent 099
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ir_100
+    name: Iran Agent 100
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ir_101
+    name: Iran Agent 101
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ir_102
+    name: Iran Agent 102
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ir_103
+    name: Iran Agent 103
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ir_104
+    name: Iran Agent 104
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ir_105
+    name: Iran Agent 105
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ir_106
+    name: Iran Agent 106
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ir_107
+    name: Iran Agent 107
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ir_108
+    name: Iran Agent 108
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ir_109
+    name: Iran Agent 109
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ir_110
+    name: Iran Agent 110
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ir_111
+    name: Iran Agent 111
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ir_112
+    name: Iran Agent 112
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ir_113
+    name: Iran Agent 113
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ir_114
+    name: Iran Agent 114
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ir_115
+    name: Iran Agent 115
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ir_116
+    name: Iran Agent 116
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ir_117
+    name: Iran Agent 117
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ir_118
+    name: Iran Agent 118
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ir_119
+    name: Iran Agent 119
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ir_120
+    name: Iran Agent 120
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ir_121
+    name: Iran Agent 121
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ir_122
+    name: Iran Agent 122
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ir_123
+    name: Iran Agent 123
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ir_124
+    name: Iran Agent 124
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ir_125
+    name: Iran Agent 125
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ir_126
+    name: Iran Agent 126
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ir_127
+    name: Iran Agent 127
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ir_128
+    name: Iran Agent 128
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ir_129
+    name: Iran Agent 129
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ir_130
+    name: Iran Agent 130
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ir_131
+    name: Iran Agent 131
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ir_132
+    name: Iran Agent 132
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ir_133
+    name: Iran Agent 133
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ir_134
+    name: Iran Agent 134
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ir_135
+    name: Iran Agent 135
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ir_136
+    name: Iran Agent 136
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ir_137
+    name: Iran Agent 137
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ir_138
+    name: Iran Agent 138
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ir_139
+    name: Iran Agent 139
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ir_140
+    name: Iran Agent 140
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ir_141
+    name: Iran Agent 141
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ir_142
+    name: Iran Agent 142
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ir_143
+    name: Iran Agent 143
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ir_144
+    name: Iran Agent 144
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ir_145
+    name: Iran Agent 145
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ir_146
+    name: Iran Agent 146
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ir_147
+    name: Iran Agent 147
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ir_148
+    name: Iran Agent 148
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ir_149
+    name: Iran Agent 149
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ir_150
+    name: Iran Agent 150
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ir_151
+    name: Iran Agent 151
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ir_152
+    name: Iran Agent 152
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ir_153
+    name: Iran Agent 153
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ir_154
+    name: Iran Agent 154
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ir_155
+    name: Iran Agent 155
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ir_156
+    name: Iran Agent 156
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ir_157
+    name: Iran Agent 157
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ir_158
+    name: Iran Agent 158
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ir_159
+    name: Iran Agent 159
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ir_160
+    name: Iran Agent 160
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ir_161
+    name: Iran Agent 161
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ir_162
+    name: Iran Agent 162
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ir_163
+    name: Iran Agent 163
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ir_164
+    name: Iran Agent 164
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ir_165
+    name: Iran Agent 165
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ir_166
+    name: Iran Agent 166
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ir_167
+    name: Iran Agent 167
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ir_168
+    name: Iran Agent 168
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ir_169
+    name: Iran Agent 169
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ir_170
+    name: Iran Agent 170
+    status: ACTIVE_SCAFFOLD

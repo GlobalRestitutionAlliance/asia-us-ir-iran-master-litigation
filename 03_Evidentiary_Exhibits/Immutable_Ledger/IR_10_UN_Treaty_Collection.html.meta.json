@@ -1,0 +1,27 @@
+{
+  "url": "https://treaties.un.org/",
+  "final_url": "https://treaties.un.org/",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 164609,
+  "sha256": "003de162e1560583cc3b25811ee7116698407ab278bf06d5e83f0258809ad9c1",
+  "captured_at": "2026-11-21T21:56:24.207201Z",
+  "custodian": "OpenCode/harvest_public_sources.py",
+  "country": "Iran",
+  "iso": "IR",
+  "title": "UN Treaty Collection",
+  "headers": {
+    "Date": "Sat, 21 Nov 2026 21:59:03 GMT",
+    "Content-Type": "text/html; charset=utf-8",
+    "Content-Length": "164609",
+    "Connection": "close",
+    "Set-Cookie": "ASP.NET_SessionId=4akg2gpyruet4lvjcz2u4qn2; path=/; secure; HttpOnly; SameSite=Lax",
+    "Cache-Control": "private",
+    "x-frame-options": "SAMEORIGIN",
+    "X-AspNet-Version": "4.0.30319",
+    "Request-Context": "appId=cid-v1:34aefb44-12a4-4541-955a-72cc5cdf4863",
+    "Access-Control-Expose-Headers": "Request-Context",
+    "X-Powered-By": "ASP.NET",
+    "Strict-Transport-Security": "max-age=31536000"
+  }
+}
