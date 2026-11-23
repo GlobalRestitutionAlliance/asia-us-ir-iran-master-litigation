@@ -1,0 +1,15 @@
+{
+  "url": "https://www.archives.gov/research/guide-fed-records/groups/263.html",
+  "final_url": "https://www.archives.gov/research/guide-fed-records/groups/263.html",
+  "title": "National Archives - Iran",
+  "fetched_at": "2026-11-23T14:21:14.705613Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 46595,
+  "sha256": "5e3541a2e006b6c3043bdb137d6428da81da0eaa0da0738b3fa8768f2e3e8d43",
+  "provenance": "direct-http-fetch",
+  "custodian": "GRA-evidence-harvester",
+  "capture_access": "PUBLIC_CAPTURE_UNAUTHENTICATED",
+  "legal_review_status": "PENDING_LEGAL_REVIEW",
+  "note": "Direct harvest capture; pending legal review/authentication."
+}
